@@ -84,7 +84,7 @@ def onegame():
             
         elif ps == 'Papel' and ti == 'Pedra':
             print()
-            print('Pedra x Papel')
+            print('Pedra x Papeasdasda
             print('Você Perdeu! :(')
             print()
             again = int(input('Deseja Jogar novamente? 1-Sim 2-Não: '))
